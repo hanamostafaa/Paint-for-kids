@@ -1,6 +1,5 @@
-# Paint for Kids
+# Paint for Kids 🎨
 
-![Paint for Kids 🎨]
 
 ## Description
 
@@ -38,13 +37,12 @@ Paint for Kids includes the following features:
   - Load a previously saved drawing to continue working on it.
  - **delete and clear all 🧹🗑️**:
 
-    - delete the selected shape
-    - clear the canvas(remove all shapes and resets colors)
-- **play mode(pick and hide🎮)** :
-
-  -pick shapes by color
-  -pick shapes by shape
-  -pick shapes by color and shape
+    - delete the selected shape.
+    - clear the canvas(remove all shapes and resets colors).
+- **play mode(pick and hide🎮)**:
+  - Pick shapes by color.
+  - Pick shapes by shape type.
+  - Pick shapes by color&type.
 
 
 
@@ -56,15 +54,14 @@ To use Paint for Kids, perform the following steps:
 
    ```bash
    git clone https://github.com/hanamostafaa/Paint-for-kids.git
-  2. Compile the source code using a C++ compiler. For example:
+2. Compile the source code using a C++ compiler. For example:
 
      ```bash
      g++ main.cpp -o Paint-for-kids
-3.Run the compiled executable:
+ 3.Run the compiled executable:
 
     ./Paint-for-kids
-  
  4.Use the graphical user interface to draw shapes, change colors, and interact with the game.
 
-5.Enjoy playing with the created shapes and exploring the various features of the game.
+ 5.Enjoy playing with the created shapes and exploring the various features of the game.
    
