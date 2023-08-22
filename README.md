@@ -36,7 +36,7 @@ Paint for Kids includes the following features:
 
   - Save the current drawing to a file for future use.
   - Load a previously saved drawing to continue working on it.
-  - - **delete and clear all**:
+ - **delete and clear all**:
 
   - delete the selected shape
   - clear the canvas(remove all shapes and resets colors)
