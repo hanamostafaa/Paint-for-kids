@@ -1,6 +1,6 @@
 # Paint for Kids
 
-![Paint for Kids](<>)
+![Paint for Kids 🎨]
 
 ## Description
 
@@ -10,37 +10,37 @@ Paint for Kids is a simple game developed in C++ using the principles of Object-
 
 Paint for Kids includes the following features:
 
-- **Drawing Shapes**:
+- **Drawing Shapes 🟥🟢📐** :
 
   - Create and draw shapes such as rectangles, circles, triangles, and more.
   - Select desired outline and fill colors.
   - Easily change the size and position of the shapes.
 
 
-- **Moving Shapes**:
+- **Moving Shapes ➡️** :
 
   - Move shapes around the canvas by dragging them.
   - Easily reposition shapes to create dynamic scenes.
 
-- **Recording Actions**:
+- **Recording Actions 🎥**:
 
   - Record the user's actions in the game.
   - Capture the sequence of shape creation, movement, and interaction.
 
-- **Undo and Redo**:
+- **Undo and Redo ↪️↩️**:
 
   - Undo the previous action to revert changes.
   - Redo an undone action to restore changes.
 
-- **Save and Load**:
+- **Save and Load 💾📤**:
 
   - Save the current drawing to a file for future use.
   - Load a previously saved drawing to continue working on it.
- - **delete and clear all**:
+ - **delete and clear all 🧹🗑️**:
 
-  - delete the selected shape
-  - clear the canvas(remove all shapes and resets colors)
-- **play mode(pick and hide)**:
+    - delete the selected shape
+    - clear the canvas(remove all shapes and resets colors)
+- **play mode(pick and hide🎮)** :
 
   -pick shapes by color
   -pick shapes by shape
@@ -48,7 +48,7 @@ Paint for Kids includes the following features:
 
 
 
-## How to Use
+## How to Use ⁉️
 
 To use Paint for Kids, perform the following steps:
 
